@@ -11,3 +11,7 @@
 #Feautres
   <br>
   You can check documentation on https://docs.corebot.dev/
+  
+#Installation
+<br>
+Run `npm i` to install independencies. Run the `Start.bat` File.
